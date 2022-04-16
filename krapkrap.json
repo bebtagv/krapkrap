@@ -1,17 +1,11 @@
 [ {
 
   "id" : "1467e01c1",
-
-  "init" : 15,
-
+  "init" : 10,
   "note" : "defull",
-
   "pack" : "",
-
   "pe1" : 150,
-
   "pe2" : 180,
-
   "status" : true
 
 } ]
