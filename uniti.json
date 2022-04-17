@@ -1,9 +1,11 @@
-[{"id":4711527,
-  "pe1":150,
-  "pe2":180,
-  "init":10,
-  "name":"Interstitial_Android",
-  "note":"defull",
-  "pack":"",
-  "status":true,
-  "testMode":false}]
+[ {
+  "id" : 4711527,
+  "init" : 10,
+  "name" : "Interstitial_Android",
+  "note" : "defull",
+  "pack" : "",
+  "pe1" : 150,
+  "pe2" : 180,
+  "status" : true,
+  "testMode" : false
+} ]
